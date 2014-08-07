@@ -1,0 +1,27 @@
+{
+  "name": "exploring-color-spaces",
+  "version": "0.0.0",
+  "description": "Exploring Color Spaces talk for Distill 2014",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "gem install lifx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dluxemburg/exploring-color-spaces.git"
+  },
+  "keywords": [
+    "leap motion",
+    "lifx",
+    "color space"
+  ],
+  "author": "Daniel licenseuxemburg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dluxemburg/exploring-color-spaces/issues"
+  },
+  "homepage": "https://github.com/dluxemburg/exploring-color-spaces",
+  "dependencies": {
+    "leapjs": "~> 0.4.3"
+  }
+}
